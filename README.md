@@ -33,4 +33,3 @@
 4. [DataTool.py](https://github.com/EileenHsieh/PicCollage_take_home_quiz/blob/master/scripts/DataTool.py) defines the image preprocessing functions.
 5. [playOnFireFox.py](https://github.com/EileenHsieh/PicCollage_take_home_quiz/blob/master/scripts/playOnFirefox.py) enables people to automatically play the game [online](http://guessthecorrelation.com/).
 
-**Requirements**
