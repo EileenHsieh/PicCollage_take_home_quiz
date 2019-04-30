@@ -22,5 +22,13 @@
 2. Suppose you are tasked with creating a feature to enhance dark/bright image with a model as small as possible. That is, brighten too-dark images and darken too-bright images. Please provide a written response in English to the following questions concerning the above scenario:
     
     (1) Outline your plan to solve this problem, if you are given: (i) one week, (ii) one month, (iii) 6 months. In each case, specify what data you would need, and it is ok to suggest different options with pros/cons.
+
     (2) How to evaluate the model? (measure the success of this project)
 
+**Usage**
+
+1. ./scripts/training_resnet.py is main script for model in resnet18.py 
+2. ./scripts/training.py is main script for model in vanilla_CNN.py 
+3. get_sample_data.py is for separating training set, vaildation set and test set.
+4. DataTool.py defines the image preprocessing functions.
+5. playOnFireFox.py enables people to automatically play the game [online](http://guessthecorrelation.com/).
